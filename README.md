@@ -1,3 +1,3 @@
-The work on formalising NIR computations with M.Rontionov@soton.ac.uk.
+The work on formalising NIR computations with Michail Rontionov.
 
 
